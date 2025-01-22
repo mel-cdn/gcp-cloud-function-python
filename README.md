@@ -1,6 +1,5 @@
 # GCP Cloud Function | Python
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Little project to explore deploying a Python Cloud Function to Google Cloud Project.
 
